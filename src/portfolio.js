@@ -145,6 +145,19 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Firmware Engineer",
+      company: "Biamp.",
+      companylogo: require("./assets/images/biamp.jpg"),
+      date: "June 2021 – May 2022",
+      desc:
+        "•	Maintain existing programs by fixing issues, implementing improvements, and adding new features when requested",
+      descBullets: [
+        "Write code and test software created to ensure functionality and usability",
+        "Participate in corporate level IT projects, as needed",
+        "Work with engineers to reproduce problems found during testing and validate fixes"
+      ]
+    },
+    {
       role: "Firmware Engineer in Test",
       company: "Trail Tech",
       companylogo: require("./assets/images/trailtech.png"),
