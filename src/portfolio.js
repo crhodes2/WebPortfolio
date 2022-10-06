@@ -145,16 +145,29 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Firmware Engineer",
-      company: "Biamp.",
-      companylogo: require("./assets/images/biamp.jpg"),
-      date: "June 2021 – May 2022",
+      role: "Software Developer",
+      company: "Bates Group",
+      companylogo: require("./assets/images/bg.png"),
+      date: "June 2022 - Present",
       desc:
-        "•	Maintain existing programs by fixing issues, implementing improvements, and adding new features when requested",
+        "Maintain existing programs by fixing issues, implementing improvements, and adding new features when requested",
       descBullets: [
         "Write code and test software created to ensure functionality and usability",
         "Participate in corporate level IT projects, as needed",
         "Work with engineers to reproduce problems found during testing and validate fixes"
+      ]
+    },
+    {
+      role: "Firmware Engineer",
+      company: "Biamp.",
+      companylogo: require("./assets/images/biamp.png"),
+      date: "June 2021 – May 2022",
+      desc:
+        "Contribute to development of features within applications, including API design and coding",
+      descBullets: [
+        "Writing and implementing test cases and scenarios using Pytest, Gherkin and Cucumber",
+        "Create written documentation for firmware designs and functionality",
+        "Peer programming, code review, and collaboration work with engineers within dev environment"
       ]
     },
     {
