@@ -362,19 +362,19 @@ const blogSection = {
   blogs: [
     {
       url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+        "https://creates.medium.com/the-many-faces-of-software-testing-685dc7cdc8bc",
+      title: "The Many Faces of Software Testing",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Learn to master the many version of Software Testing and ready to deliver them to the next level."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://creates.medium.com/never-fear-oops-is-here-understanding-object-oriented-programming-with-superheroes-da6df336a53f",
+      title: "Object Oriented Programming with Superheroes?",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Experience a creative way to approach one of the foundations of Programming."
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
