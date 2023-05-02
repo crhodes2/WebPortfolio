@@ -361,6 +361,12 @@ const blogSection = {
 
   blogs: [
     {
+      url: "https://www.buymeacoffee.com/crhodes/a-creative-guide-object-oriented-programming-now-sale",
+      title: "A Creative Guide to Object Oriented Programming - Now on Sale!",
+      description:
+        "Thrilled to announce that my very first book has hit the market! Click to learn more!"
+    },
+    {
       url:
         "https://creates.medium.com/the-many-faces-of-software-testing-685dc7cdc8bc",
       title: "The Many Faces of Software Testing",
