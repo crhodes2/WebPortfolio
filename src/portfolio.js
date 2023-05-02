@@ -384,7 +384,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("📱 Call Me | Text Me | Email Me 📧"),
+  title: emoji("📳 Contact Me 📨"),
   subtitle:
     "I am open to talk business. Or simply to chat.",
   number: "(503) 997 8710",
